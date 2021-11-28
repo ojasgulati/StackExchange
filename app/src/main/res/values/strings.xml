@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stackexchange</string>
+    <string name="filter">Filter</string>
+    <string name="posted_by">Posted By</string>
+    <string name="average_view_count">Average View Count</string>
+    <string name="average_answer_count">Average Answer Count</string>
+</resources>
